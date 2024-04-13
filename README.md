@@ -6,11 +6,10 @@ This schematic is identical to [Stefan Wagner](https://github.com/wagiminator) s
 Originally, and more importantly for me, I wanted to design a slim-ish USB hub that I could connect to the side of my computer, without a cable dangling from it.  The design also needed to allow for airflow from the fans that are next to the USB port on my computer, and not to obstruct the other ports on the other side of the USB.  That being said, I created an addtional design to be a little more universally applicable for others (and myself later).  So likely you'll want to use the [HSS8836_USBC_Hub](hardware/HS8836A_USBC_hub) files instead of the older ones.  The older files are still available, although it's probably not really needed for anyone besides me.
 
 ## Scematic
-![USB Hub Schematic](hardware/HS8836A_USBC_hub/HS8836A_USBC_Hub_Schematic.png)
+![USB Hub Schematic](hardware/HS8836A_USBC_hub/images/HS8836A_USBC_hub_schematic.jpg)
 
 ## Layout
-![USB Hub Layout](hardware//HS8836A_USBC_hub/HS8836_USBC_Hub_Layout.png)
-
+![USB Hub Layout](hardware/HS8836A_USBC_hub/images/HS8836A_USBC_hub_layout.jpg)
 ## To Do
 * Post pictures of the old USB hub
 * Populate and Test USBC Hub when boards arrive
